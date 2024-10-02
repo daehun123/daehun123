@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7fff00&height=150&section=header&text=Welcome%20To%20deahun's%20GitHub&fontColor=fff&fontSize=50&animation=fadeIn" width="100%" height="150" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=f41ab6&height=150&section=header&text=Welcome%20To%20deahun's%20GitHub&fontColor=fff&fontSize=50&animation=fadeIn" width="100%" height="150" />
 </div>
 
 <!--내용 부분-->
