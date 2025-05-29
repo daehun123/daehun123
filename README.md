@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/dart-2E9AFE.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-%2306B6D4.svg%3F%26style%3Dfor-the-badge%26logo%3Dtailwind%26logoColor%3Dwhite?label=tailwind">&nbsp
 </div>
 
 <div align="center">
