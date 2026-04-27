@@ -7,9 +7,11 @@
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{daehun123}"/>
-</a>
+<div align="center>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{daehun123}"/>
+  </a>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
