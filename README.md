@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=f41ab6&height=150&section=header&text=Welcome%20To%20daehun's%20GitHub&fontColor=fff&fontSize=50&animation=fadeIn" width="100%" />
-</div>
 
 <div align="center">
   <h3>👋 안녕하세요! 소통과 집요함으로 가치를 만드는 프론트엔드 개발자입니다.</h3>
