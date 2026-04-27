@@ -37,14 +37,6 @@
 
 <br>
 
-<h3 align="center">🗒️ My State 🗒️</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehun123&layout=compact&theme=bear&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=daehun123&theme=bear&show_icons=true&include_all_commits=true&count_private=true" width="500" />
-</div>
-
-<br>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
