@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:당신의이메일@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:당신의이메일@gmail.com" />
+  <a href="mailto:kangdaehun123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangdaehun123@gmail.com" />
   </a>
 </div>
