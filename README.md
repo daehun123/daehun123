@@ -1,56 +1,65 @@
-<!--타이틀 부분-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=f41ab6&height=150&section=header&text=Welcome%20To%20deahun's%20GitHub&fontColor=fff&fontSize=50&animation=fadeIn" width="100%" height="150" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=f41ab6&height=150&section=header&text=Welcome%20To%20daehun's%20GitHub&fontColor=fff&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
-<!--내용 부분-->
-<h3 align="center">🗒️ My State 🗒️</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehun123&layout=compact&theme=bear" width="400" height="200" />
-   <img src="https://github-readme-stats.vercel.app/api?username=daehun123&theme=bear&show_icons=true" width="500" height="200" />
+  <h3>👋 안녕하세요! 소통과 집요함으로 가치를 만드는 프론트엔드 개발자입니다.</h3>
+  <p>기술적 효율성과 사용자 경험의 접점을 찾는 과정에 큰 흥미를 느낍니다.<br> 
+  복잡한 레이아웃을 논리적으로 정리하고, 팀의 생산성을 높이는 개발 환경을 구축하는 것을 선호합니다.</p>
 </div>
 
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/dart-2E9AFE.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFC" />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/scss-DB7093?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp
-
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/reactnative-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">🚀 Recent Projects 🚀</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <strong>📍 PuppyRun</strong><br>
+        H3 grid 시스템을 활용한 산책 루트 추천 앱<br>
+        (React Native, H3-js)
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h3 align="center">🗒️ My State 🗒️</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehun123&layout=compact&theme=bear" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daehun123&theme=bear&show_icons=true" width="500" />
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <br>
 
-
-
-
-
-
-    
+<div align="center">
+  <a href="mailto:당신의이메일@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:당신의이메일@gmail.com" />
+  </a>
+</div>
