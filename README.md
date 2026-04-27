@@ -29,10 +29,10 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
+      <td width="100%" align="center">
         <strong>📍 PuppyRun</strong><br>
-        H3 grid 시스템을 활용한 산책 루트 추천 앱<br>
-        (React Native, H3-js)
+        반려견과 함께한 산책을 기록하고 종합적인 케어를 위한 앱<br>
+        (React Native)
       </td>
     </tr>
   </table>
@@ -42,8 +42,8 @@
 
 <h3 align="center">🗒️ My State 🗒️</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehun123&layout=compact&theme=bear" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=daehun123&theme=bear&show_icons=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehun123&layout=compact&theme=bear&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daehun123&theme=bear&show_icons=true&include_all_commits=true&count_private=true" width="500" />
 </div>
 
 <br>
